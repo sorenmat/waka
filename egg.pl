@@ -1,8 +1,8 @@
 #! /usr/bin/perl
 
 #   Start date, about one year ago...
-$dd = 9;
-$mm = 3;
+$dd = 27;
+$mm = 4;
 $yy = 14;
 @days = ( 31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31 );
 
