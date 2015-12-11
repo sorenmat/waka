@@ -1,9 +1,9 @@
 #! /usr/bin/perl
 
 #   Start date, about one year ago...
-$dd = 3;
-$mm = 8;
-$yy = 14;
+$dd = 4;
+$mm = 1;
+$yy = 15;
 @days = ( 31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31 );
 
 if (open (STATS, "stats.txt") ) {
