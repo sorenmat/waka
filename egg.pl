@@ -2,7 +2,7 @@
 
 #   Start date, about one year ago...
 $dd = 6;
-$mm = 10;
+$mm = 9;
 $yy = 15;
 @days = ( 31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31 );
 
